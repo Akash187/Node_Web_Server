@@ -1,0 +1,22 @@
+{
+  "name": "node_web_server",
+  "version": "1.0.0",
+  "description": "A simple node app to work with express package to create server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash187/Node_Web_Server.git"
+  },
+  "author": "Akash Kumar Seth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akash187/Node_Web_Server/issues"
+  },
+  "homepage": "https://github.com/Akash187/Node_Web_Server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
